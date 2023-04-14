@@ -1,0 +1,57 @@
+es6
+es == ecma Script
+
+es6 features
+
+let
+var
+const
+
+this
+
+scope variable
+
+global
+{}
+function (){
+
+}
+
+
+arrow function
+function expression
+
+iife
+immediate invoked function
+
+generator function
+
+
+hosting
+
+closurs
+
+spread oparatos
+rest oparatos
+
+destructing
+
+arry destructing
+object destructing
+
+import/export
+
+deep copy/ shallow copy
+
+
+is javascript syncronus or asnccronous
+
+promise
+generator
+async/await
+async module
+
+
+
+
+
