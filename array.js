@@ -1,15 +1,15 @@
 
-var firstname="bhargava";
+var firstname = "bhargava";
 
 //multiple values
-var names=["bharagava","srikanth","dhana","guru"]; 
+var names = ["bharagava", "srikanth", "dhana", "guru"];
 
 // irrespective of datatype any value we can store
-var age= 10;
+var age = 10;
 
-var names=["bharagava","srikanth","dhana","guru",10,20,]; 
+var names = ["bharagava", "srikanth", "dhana", "guru", 10, 20,];
 
-var details=["bharagava","srikanth","dhana","guru",10,20,"hindupur","kadiri","tirupati"]; 
+var details = ["bharagava", "srikanth", "dhana", "guru", 10, 20, "hindupur", "kadiri", "tirupati"];
 
 // console.log(details.length-1)
 // console.log(details[details.length-1]);
@@ -37,9 +37,9 @@ var details=["bharagava","srikanth","dhana","guru",10,20,"hindupur","kadiri","ti
 // }
 
 
-var details=["bharagava","srikanth","dhana","guru",10,20,"hindupur"];
-var age=[1,100,300,40,50];
-var city=["bangalore","dehli","vizag"];
+// var details=["bharagava","srikanth","dhana","guru",10,20,"hindupur"];
+// var age=[1,100,300,40,50];
+// var city=["bangalore","dehli","vizag"];
 
 
 // to combain the two arrays we will use concat()
@@ -96,26 +96,12 @@ var city=["bangalore","dehli","vizag"];
 //         }
 
 //     }
-    
+
 // }
 
 // var result = printDaysOfWeek("MONDAY");
 
 // console.log(result);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // function printDaysOfWeek() {
@@ -131,4 +117,33 @@ var city=["bangalore","dehli","vizag"];
 // }
 
 // printDaysOfWeek("to day is");
+
+
+
+const numbers_array = [10, 20, 30, 40, 50, 60, 70, 80, 90];
+
+// const new_numbers_array = [];
+
+
+// [10,20,30,40,50,60,70,80,90]
+
+// value*10;
+
+// for (let i = 0; i < numbers_array.length; i++) {
+
+//     new_numbers_array.push(numbers_array[i] * 10)
+
+// }
+
+// console.log(new_numbers_array);
+
+
+// let new_numbers_array = numbers_array.map(function (value) {
+
+// return value*10;
+
+// });
+
+// console.log("new_numbers_array====",new_numbers_array);
+
 

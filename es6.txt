@@ -7,8 +7,6 @@ let
 var
 const
 
-this
-
 scope variable
 
 global
@@ -17,9 +15,16 @@ function (){
 
 }
 
+hosting
 
-arrow function
+normal function
 function expression
+anonymous functions/name less functions
+
+
+this
+arrow function
+
 
 iife
 immediate invoked function
@@ -27,7 +32,7 @@ immediate invoked function
 generator function
 
 
-hosting
+
 
 closurs
 
@@ -46,12 +51,12 @@ deep copy/ shallow copy
 
 is javascript syncronus or asnccronous
 
+callback functions
 promise
 generator
 async/await
 async module
 
 
-
-
-
+map
+filter
