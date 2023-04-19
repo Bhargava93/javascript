@@ -23,8 +23,6 @@
 //     console.log("block scope==", firstname);
 //     console.log("block scope==", company);
 //     console.log("block scope==", bankaccouct);
-
-
 // }
 
 // sample();

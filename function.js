@@ -82,3 +82,16 @@ console.log(result3);
 // function {}
 // global
 
+
+// normal function
+addition();
+
+function addition() {
+    return;
+}
+
+// function declaration
+let addition = function () {
+    return;
+}
+addition();
