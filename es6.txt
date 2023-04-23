@@ -31,9 +31,6 @@ immediate invoked function
 
 generator function
 
-
-
-
 closurs
 
 spread oparatos
