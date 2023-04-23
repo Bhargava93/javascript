@@ -54,6 +54,9 @@ generator
 async/await
 async module
 
-
+foreach
+for/of
 map
 filter
+reducer
+
