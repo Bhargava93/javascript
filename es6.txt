@@ -29,6 +29,7 @@ arrow function
 iife
 immediate invoked function
 
+function curring
 generator function
 
 closurs
@@ -59,4 +60,17 @@ for/of
 map
 filter
 reducer
+sort
+includes
+find
+findindexof
+reverse
+push
+pop
+swift
+unswift
+flat
+indexof
+
+
 
