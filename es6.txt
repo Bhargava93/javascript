@@ -47,12 +47,12 @@ import/export
 deep copy/ shallow copy
 
 
-is javascript syncronus or asnccronous
+is javascript syncronus or asyncronous
 
 callback functions
 promise
-generator
 async/await
+generator
 async module
 
 foreach
