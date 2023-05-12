@@ -52,26 +52,29 @@ let samplePromises = (number) => {
     });
 }
 
-let secondpromise=()=>{
-    return new Promise((resolve, rejected) => {
-        let result = 5;
-        if (result === number) {
-            resolve(result)
-        } else {
-            rejected("condition fail")
-        }
-    });
-}
+// let secondpromise=()=>{
+//     return new Promise((resolve, rejected) => {
+//         let result = 5;
+//         if (result === number) {
+//             resolve(result)
+//         } else {
+//             rejected("condition fail")
+//         }
+//     });
+// }
 
-samplePromises(5)
-    .then(() => {
+// samplePromises(5)
+//     .then(() => {
 
-    })
-    .then(() => {
+//     })
+//     .then(() => {
         
-    })
-    .catch((error) => {
-        console.log(error);
-    })
+//     })
+//     .catch((error) => {
+//         console.log(error);
+//     })
 
 
+module.exports={
+    samplePromises
+}
